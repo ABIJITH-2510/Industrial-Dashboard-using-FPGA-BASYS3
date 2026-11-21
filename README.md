@@ -1,0 +1,1 @@
+# Industrial-Dashboard-for-real-time-monitoring-of-machines-using-FPGA
